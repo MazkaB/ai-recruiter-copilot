@@ -1,25 +1,5 @@
 # 🤖 AI Recruiter Co-Pilot
 
-<div align="center">
-
-![AI Recruiter Co-Pilot Logo](https://via.placeholder.com/200x200/667eea/ffffff?text=AI+RECRUITER)
-
-**The Future of Intelligent Recruitment**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![React](https://img.shields.io/badge/React-18.0+-61dafb.svg)](https://reactjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-00a673.svg)](https://fastapi.tiangolo.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-00a67e.svg)](https://openai.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
-
-*Revolutionizing candidate screening through AI-powered voice interviews, intelligent CV analysis, and comprehensive evaluation reports.*
-
-[🚀 Demo](#-demo) • [📋 Features](#-features) • [⚡ Quick Start](#-quick-start) • [📖 Documentation](#-api-documentation) • [🤝 Contributing](#-contributing)
-
-</div>
-
----
-
 ## 🌟 Overview
 
 AI Recruiter Co-Pilot is a comprehensive recruitment automation platform that transforms traditional hiring processes through artificial intelligence. Our system provides end-to-end candidate screening, from CV analysis to voice-led interviews and skills assessments, all powered by cutting-edge AI technology.
