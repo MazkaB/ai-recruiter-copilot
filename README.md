@@ -4,28 +4,6 @@
 
 AI Recruiter Co-Pilot is a comprehensive recruitment automation platform that transforms traditional hiring processes through artificial intelligence. Our system provides end-to-end candidate screening, from CV analysis to voice-led interviews and skills assessments, all powered by cutting-edge AI technology.
 
-### 🎯 Mission
-To eliminate recruitment bias, reduce hiring time by 70%, and ensure every candidate gets a fair, comprehensive evaluation through AI-powered assessment.
-
----
-
-## 🚀 Demo
-
-### 📺 Live Demo
-> **[Try the Live Demo](https://your-demo-link.com)** *(Coming Soon)*
-
-### 🖼️ Screenshots
-
-<div align="center">
-
-| CV Upload Interface | Voice Interview | Assessment Portal | Evaluation Report |
-|:---:|:---:|:---:|:---:|
-| ![CV Upload](https://via.placeholder.com/250x150/667eea/ffffff?text=CV+Upload) | ![Interview](https://via.placeholder.com/250x150/764ba2/ffffff?text=Interview) | ![Assessment](https://via.placeholder.com/250x150/22c55e/ffffff?text=Assessment) | ![Report](https://via.placeholder.com/250x150/ef4444/ffffff?text=Report) |
-
-</div>
-
----
-
 ## ✨ Features
 
 ### 🧠 **AI-Powered Core**
